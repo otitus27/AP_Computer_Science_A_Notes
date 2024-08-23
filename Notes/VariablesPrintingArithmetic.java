@@ -9,6 +9,7 @@ Notes Outline:
 3) Lab 1 Overview
 
 */
+//The name of the class needs to match the file.
 
 public class VariablesPrintingArithmetic {
     public static void main(String[] args)
@@ -131,11 +132,25 @@ public class VariablesPrintingArithmetic {
         1) Let's write a program that makes two integer variables and adds them
         */
 
+//int num1 = 1;
+//int num2 = 3'
+//int sum - num1 + num2
+//System.out.println(sum);
+        
         /*
         2) Now let's write a program that multiples two numbers,
         divides them by a third, and prints the result out! 
         */
 
+double num1 = 6.3
+double num2 = 7.2
+double num3 = 8.1+2.6
+
+double product = num1*num2
+double result = product/num3
+
+System.out,println(result)
+        
         /*
         FAQ:
         Q: Can I save and use variables from one file on another?
